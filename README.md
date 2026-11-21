@@ -36,7 +36,7 @@ The scene combines 3D objects, textures, lighting, and image-based cards to crea
 
 ## 🖼️ Project Preview
 
-Screenshots of the final scene will be added here.
+![CardGame Preview](cardgame-preview.png)
 
 ## 👩‍💻 Author
 
