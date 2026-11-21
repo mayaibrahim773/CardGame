@@ -1,0 +1,13 @@
+# Build files
+build/
+cmake-build-*/
+
+# Visual Studio files
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.user
+
+# Temporary files
+*.log
+*.tmp
